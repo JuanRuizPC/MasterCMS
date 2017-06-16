@@ -1,16 +1,8 @@
 <html>
 
-      <head>
+     
 
-        <meta charset="UTF-8">
-
-        <title>README.md</title>
-
-      </head>
-
-      <body>
-
-        <p><img src="http://i.imgur.com/DajNToP.png" alt="Master logo"></p>
+   <img src="http://i.imgur.com/DajNToP.png" alt="Master logo">
 
 <h2 id="what-s-mastercms-">What&#39;s MasterCMS?</h2>
 
